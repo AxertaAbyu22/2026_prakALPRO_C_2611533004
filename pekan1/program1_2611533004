@@ -1,0 +1,12 @@
+# Program pertama
+"""
+komentar
+dua baris atau lebih
+pertemuan 1 praktikum alpro
+"""
+print("Hello Wortld")
+print()
+print("Departemen Informatika")
+print("Universitas Andalas")
+print("/ \\ // \\\\ /// \\\\\\")
+print("program ini"+ " dibuat oleh a\\n"+ "Muhammad Abiyyu Haidar Arhab")
