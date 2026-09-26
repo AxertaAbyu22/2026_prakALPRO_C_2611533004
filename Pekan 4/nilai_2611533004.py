@@ -1,4 +1,3 @@
-
 nilai_3004 =int(input(" Inputkan nilai angka"))
 
 if nilai_3004 >= 81:
